@@ -1,2 +1,2 @@
 # DO
-the code of do index
+the code of DO index in matlab
